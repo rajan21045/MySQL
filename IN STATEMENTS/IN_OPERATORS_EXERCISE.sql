@@ -5,7 +5,7 @@ USE sql_store;
 SELECT * 
 FROM products
 WHERE quantity_in_stock IN (49, 38, 79);
-
+ 
 -- THE FOLLOWING SQL STATEMENT EXECERISE IS FROM RAJAN POUDEL
 -- The following SQL statement selects all students that have a attendance of 90, 50, 70
 USE collegeDB;
