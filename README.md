@@ -8,7 +8,7 @@ A structured, self-paced SQL learning repository documenting my journey from the
 
 - Basic understanding of how databases work
 - [MySQL](https://dev.mysql.com/downloads/mysql/) or [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) installed
-- A code editor (e.g. [VS Code](https://code.visualstudio.com/))
+
 
 ---
 
