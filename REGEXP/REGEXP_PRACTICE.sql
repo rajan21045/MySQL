@@ -5,6 +5,7 @@ Get the customers whose
     last name start with MY or constains SE
     last names contain B followed by R or U 
 */
+
 -- first names are ELKA or AMBUR
 SELECT *
 FROM customers
