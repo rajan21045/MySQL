@@ -38,6 +38,8 @@ UPDATE Students SET dept_id = 1 WHERE student_id IN (1,3,5,7);
 UPDATE Students SET dept_id = 2 WHERE student_id IN (2,4);
 UPDATE Students SET dept_id = 3 WHERE student_id IN (6,8);
 
+
+-- This is the latest insert into query where i insert some null values so that i will help me to pratice is null operators
 INSERT INTO Students (name, age, gender, marks, city, attendance, dept_id)
 VALUES ('Kiran', NULL, 'Male', 65, 'Kathmandu', NULL, 1);
 
