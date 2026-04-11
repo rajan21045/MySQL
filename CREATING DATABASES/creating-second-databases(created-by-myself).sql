@@ -37,3 +37,9 @@ ADD FOREIGN KEY (dept_id) REFERENCES Departments(dept_id);
 UPDATE Students SET dept_id = 1 WHERE student_id IN (1,3,5,7);
 UPDATE Students SET dept_id = 2 WHERE student_id IN (2,4);
 UPDATE Students SET dept_id = 3 WHERE student_id IN (6,8);
+
+INSERT INTO Students (name, age, gender, marks, city, attendance, dept_id)
+VALUES ('Kiran', NULL, 'Male', 65, 'Kathmandu', NULL, 1);
+
+INSERT INTO Students (name, age, gender, marks, city, attendance, dept_id)
+VALUES ('Maya', 20, NULL, NULL, NULL, 75, 2);
