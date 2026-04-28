@@ -2,7 +2,7 @@
 SELECT * 
 FROM customers
 WHERE state IN ('VA', 'FL', 'GA');
-
+ 
 -- The following SQL statement selects all customers that are NOT located in "VA", "FL" OR "GA":
 SELECT * 
 FROM customers
