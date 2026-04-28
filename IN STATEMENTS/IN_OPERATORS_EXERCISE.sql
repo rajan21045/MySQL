@@ -1,6 +1,7 @@
 -- Return products with 
 -- quantity in stock equal to 49, 38, 79 ( IT IS THE EXECRISE FROM PROGRAMMING WITH MOSH YOUTUBE VIDEO NAMED 'SQL Course for Beginners [Full Course]')
 USE sql_store;
+
 -- Using sql_store for this SQL statement because of the available of product's details to find
 SELECT * 
 FROM products
