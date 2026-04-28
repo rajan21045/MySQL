@@ -1,4 +1,4 @@
--- Beginner
+-- Beginner 
 -- Q. Count the total number of students enrolled.
 SELECT COUNT(*)
 FROM students;
