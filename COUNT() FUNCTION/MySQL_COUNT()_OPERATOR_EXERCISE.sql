@@ -2,7 +2,7 @@
 -- Q. Count the total number of students enrolled.
 SELECT COUNT(*)
 FROM students;
-
+ 
 -- Q. Count the total number of customers registered in the store.
 SELECT COUNT(*) AS total_customers
 FROM sql_store.customers;
