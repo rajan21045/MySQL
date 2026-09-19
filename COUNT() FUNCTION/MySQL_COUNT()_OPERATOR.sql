@@ -45,6 +45,7 @@ You can add a WHERE clause to specify conditions:
 Example
 Count the number of products where salary is higher than 20:
 */
+
 SELECT COUNT(employee_id)
 FROM employees
 WHERE salary > 3000;
